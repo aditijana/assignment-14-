@@ -1,4 +1,5 @@
 package studentgroups;
+import java.util.Scanner;
 
 public class Studentgroups {
 
@@ -31,8 +32,3 @@ public class Studentgroups {
 		        System.out.printf("The student belongs to group %s", groupName);
 		    }
 		}
-
-		
-	}
-
-}
